@@ -1,0 +1,15 @@
+{
+  "users": [
+  
+    {
+      "name": "ali",
+      "candidate_no": "101",
+      "status": "Selected",
+      "role": "Machine Learning Engineer",
+      "city": "Kasur",
+      "postal_code": "032",
+      "description": "ok",
+      "id": 5
+    }
+  ]
+}

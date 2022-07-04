@@ -1,0 +1,38 @@
+.add-user{
+    width: 50vw;
+    height: 80vh;
+    margin-left: 25%;
+    margin-top: 4%;
+    display: block;
+    
+}
+.selector{
+    padding-left: 1.5rem;
+    justify-content: space-between;
+}
+
+
+/* to make some responsivness */
+
+@media(max-width:998px){
+    html{
+        font-size: 85%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 65%;
+    }
+}
+
+@media(max-width:484px){
+    html{
+        font-size: 50%;
+    }
+}
+
+@media(max-width:375px){
+    html{
+        font-size: 45%;
+    }
+}
